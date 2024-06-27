@@ -1,7 +1,3 @@
-.App {
-  text-align: center;
-}
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -15,7 +11,7 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 10vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -26,6 +22,66 @@
 
 .App-link {
   color: #61dafb;
+}
+.sectionIntro{
+  align-items: center;
+  justify-content: center;
+  display: grid;
+  margin-top: 100px;
+  margin-bottom: 160px;
+}
+.headerIntro{
+  display: flex;
+  margin: 50px;
+  width: 90%;
+}
+.headerIntro > div{
+  width: 50%;
+}
+h1{
+  font-size: 4rem;
+}
+p{
+  color: #7c7b7b;
+  font-size: 1.5rem;
+  margin-top: 10px;
+}
+.sectionServicios{
+  display: grid;
+  width: 100%;
+  height: 80vh;
+  align-items: center;
+  justify-content: center;
+  background: #F4F4F5;
+}
+.title-services{
+  text-align: center;
+}
+.sectionServicios .containerDev .card p{
+  color: #7c7b7b;
+  font-size: 1.3rem;
+}
+.containerDev .card{
+  width: 40%;
+  margin: 20px;
+}
+.containerDev{
+  margin-bottom: 100px;
+  display: flex;
+  margin:  0 auto;
+  margin-bottom: 100px;
+}
+.cards-users{
+  display: flex;
+  width: 100%;
+  height: 50vh;
+  margin:  0 auto;
+}
+.card img{
+  width: 30%;
+  height: 50%;
+  border-radius: 50%;
+  object-fit: cover;
 }
 
 @keyframes App-logo-spin {
