@@ -8,7 +8,7 @@ import Navbar from './Navbar';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <header>
         <Navbar />
       </header>
       <section id="home">
@@ -25,3 +25,4 @@ function App() {
 }
 
 export default App;
+ 
