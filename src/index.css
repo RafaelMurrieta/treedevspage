@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.fotogrhap{
+  margin-left: 50px;
+}
+.fotogrhap img{
+  border-radius: 30px;
+}
+.containerDev{
+  width: 80%;
+}
+.card{
+  display: grid;
+  justify-content: center;
+}

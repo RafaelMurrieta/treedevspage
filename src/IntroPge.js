@@ -1,4 +1,5 @@
 import React from 'react'
+import './index.css'
 import TreeDevsIcon from './assets/treedevslogo.jpg'
 
 const IntroPge = () => {
