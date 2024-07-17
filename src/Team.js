@@ -17,7 +17,7 @@ const Team = () => {
             </div>
             <div className='card'>
                 <img src='https://avatars.githubusercontent.com/u/166253468?v=4' className='' alt=""/>
-                <h2>Jose Antonio Mejia Medina</h2>
+                <h2>José Antonio Mejia Medina</h2>
                 <p>CTO</p>
             </div>
         </div>  
