@@ -7,6 +7,7 @@ const Servicios = () => {
         <span className='title-services'>
             <h1>Nuestros Servicios</h1>
             <p>Ofrecemos una amplia gama de servicios de desarrollo de software para satisfacer las necesidades de nuestros clientes.</p>    
+            <a href=''><button className='btn-primary'>Ver mas</button></a>
         </span>
         <div className='containerDev'>
             <div className='card'>
