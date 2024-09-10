@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/RafaelMurrieta/treedevspage/static/css/main.bae144c7.css",
-    "main.js": "/RafaelMurrieta/treedevspage/static/js/main.7fca05e2.js",
-    "static/js/453.3488d552.chunk.js": "/RafaelMurrieta/treedevspage/static/js/453.3488d552.chunk.js",
-    "static/media/treedevslogo.jpg": "/RafaelMurrieta/treedevspage/static/media/treedevslogo.518996be59c7ae04a6a7.jpg",
-    "index.html": "/RafaelMurrieta/treedevspage/index.html",
-    "main.bae144c7.css.map": "/RafaelMurrieta/treedevspage/static/css/main.bae144c7.css.map",
-    "main.7fca05e2.js.map": "/RafaelMurrieta/treedevspage/static/js/main.7fca05e2.js.map",
-    "453.3488d552.chunk.js.map": "/RafaelMurrieta/treedevspage/static/js/453.3488d552.chunk.js.map"
+    "main.css": "/treedevspage/static/css/main.bae144c7.css",
+    "main.js": "/treedevspage/static/js/main.885b5b8e.js",
+    "static/js/453.3488d552.chunk.js": "/treedevspage/static/js/453.3488d552.chunk.js",
+    "static/media/treedevslogo.jpg": "/treedevspage/static/media/treedevslogo.518996be59c7ae04a6a7.jpg",
+    "index.html": "/treedevspage/index.html",
+    "main.bae144c7.css.map": "/treedevspage/static/css/main.bae144c7.css.map",
+    "main.885b5b8e.js.map": "/treedevspage/static/js/main.885b5b8e.js.map",
+    "453.3488d552.chunk.js.map": "/treedevspage/static/js/453.3488d552.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bae144c7.css",
-    "static/js/main.7fca05e2.js"
+    "static/js/main.885b5b8e.js"
   ]
 }
